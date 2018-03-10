@@ -1,0 +1,22 @@
+#button {
+  font-family: helvetica, sans-serif;
+  text-align: center;
+  font-size: 30px;
+  border: none;
+  background-color: rgb(42,215,152);
+  display: block;
+  cursor:pointer;
+  margin: auto;
+  margin-bottom: 5px;
+  padding: 40px;
+  width: 120px;
+  height: 30px;
+}
+
+#button:hover { 
+  background-color: yellow;
+}
+
+body {
+  background: rgb(39,60,74);
+}
